@@ -12,7 +12,7 @@ TestNG, Mockito, DBUnit, Spring Test, JUnit
 IntelliJ IDEA, Eclipse, NetBeans, JDeveloper, Jasper Reports, Javafx Scene Builder
 #### Application Servers 
 WebSphere, Glassfish, Weblogic, Tomcat, TomEE
-#### Continuous integration server  
+#### Continuous integration servers  
 TeamCity, Jenkins
 #### Databases 
 Oracle, PostgreSQL, H2, DB2
