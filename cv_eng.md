@@ -68,7 +68,7 @@ act as a solution architect, management of the team of developers, code-review
 **Description:** Web-application that allows operators plan purchases, create complex reports in multiple formats  
 #### Document management system for one of the Russian Government's departments   
 **Role:** Java developer   
-**Core technologies:**  GWT, Oracle, JavaEE, Weblogic, Maven, Jenkins 
+**Core technologies:**  GWT, Oracle, JavaEE, Weblogic, Maven, Jenkins    
 **Description:** The system is used to automate planning processes for Russian Federal Custom Service, including processes for collecting information on the implementation of the plans, as well as the formation of similar reports on the implementation of the work plan,  display plans and indexes as graph and tree   
 #### Package control system   
 **Role:** Java developer   
