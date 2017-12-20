@@ -38,19 +38,19 @@ Delphi developer
 #### Uploading and analysis clients data  
 **Role:** Java developer, teamlead  
 **Core technologies:** Java 8, Spring, Spring Integration, WebSphere, JMS, TestNG, Oracle     
-**Description:** Uploading, validation, standardization and searching for duplicates for clients data from different systems (complexity is near 300 millions clients, integration with other services using MQ)  
+**Description:** Uploading, validation, standardization and searching for duplicates for clients data from different systems (quantity is approximately 300 millions clients, integration with other services using MQ)  
 **Primary goals:**  optimize execution time of uploading (parallel execution, optimization of algorithms, working with DB and queues),
-act as a solution architect, management of the team of developers, code-review   
+working as a solution architect, management of the team of developers, code-review   
 #### Searching for households   
 **Role:** Java developer  
 **Core technologies:** Java 6, Spring, WebSphere, JUnit, DB2   
-**Description:** Web-application is designed for building households (i.e. connectivity components from pairs of cliens) with calculating and saving statistics (complexity is near 30 millions pairs of clients)    
+**Description:** Web-application is designed for building households (i.e. connectivity components from pairs of cliens) with calculating and saving statistics (quantity is approximately 30 millions pairs of clients)    
 **Primary goal:** implement algorithm and optimize it by memory usage and execution time   
 #### Searching for duplicates of clients   
 **Role:** Java developer   
 **Core technologies:** Java 6, Spring, WebSphere, JUnit   
 **Description:** Refactoring and adding new features to big legacy code base, improvement working with DB (using of indexes, stored procedures), calculations of hashes and scenarios for searching duplicates of clients   
-#### C2C Crediting System for individuals  
+#### C2C Credit System for individuals  
 **Role:** Java developer, teamlead   
 **Core technologies:**  Struts, EJB, Hibernate, JSP, Maven, TomEE   
 **Description:** Web-site that allows users to take money or give money in interest-bearing debt   
@@ -65,7 +65,7 @@ act as a solution architect, management of the team of developers, code-review
 #### Document management system for one of the Russian Government's departments  
 **Role:** Java developer    
 **Core technologies:** ADF, Oracle DB, JasperReports, Weblogic, Glassfish    
-**Description:** Web-application that allows operators plan purchases, create complex reports in multiple formats  
+**Description:** Web-application that allows operators to plan purchases, create complex reports in multiple formats  
 #### Document management system for one of the Russian Government's departments   
 **Role:** Java developer   
 **Core technologies:**  GWT, Oracle, JavaEE, Weblogic, Maven, Jenkins    
@@ -73,7 +73,7 @@ act as a solution architect, management of the team of developers, code-review
 #### Package control system   
 **Role:** Java developer   
 **Core technologies:**  Java, Jasper Reports, JavaFX, Hibernate, JPA, MySQL, Maven, Jenkins   
-**Description:** Desktop application is designed to monitor the process packing and shipping packages and form accompanying documentation   
+**Description:** Desktop application is designed to monitor the process of packing and shipping packages and form accompanying documentation   
 #### Data aggregation system   
 **Role:** Java developer   
 **Core technologies:**  Java, JavaFX, Selenium, Maven   
