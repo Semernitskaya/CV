@@ -5,14 +5,19 @@
 #### Языки 
 Java, Scala, SQL, XML
 #### Технологии/фреймворки 
-JavaSE (6-8), Spring, Spring Integration, Mapstruct, MyBatis, JMS, Hibernate, JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX
+JavaSE (6-8), Spring Core, Spring Integration, Spring Boot, Spring Data, Spring MVC, Mapstruct, 
+Flyway, MyBatis, JMS, Hibernate, JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX
 #### Тестовые фреймворки 
-TestNG, Mockito, DBUnit, Spring Test, JUnit
+TestNG, Mockito, DBUnit, Spring Test, JUnit, JMeter
 #### User Interface Toolkits / IDE Environments 
 IntelliJ IDEA, Eclipse, NetBeans, JDeveloper, Jasper Reports, Javafx Scene Builder
 #### Application Servers 
 WebSphere, Glassfish, Weblogic, Tomcat, TomEE
-#### Continuous integration server  
+#### Messaging systems
+IBM MQ, Kafka
+#### Средства мониторинга
+Splunk, IBM Tivoli 
+#### Continuous integration servers  
 TeamCity, Jenkins
 #### Базы данных 
 Oracle, PostgreSQL, H2, DB2
@@ -26,7 +31,7 @@ JIRA, Redmine, YouTrack
 ## Опыт работы
 #### 04/2015 - настоящее время
 HFLabs   
-Java разработчик, teamlead
+Senior java разработчик, teamlead
 #### 08/2012 - 04/2015
 SimbirSoft   
 Java разработчик, teamlead
@@ -37,17 +42,20 @@ Delphi разработчик
 
 ## Проекты 
 #### Загрузка клиентских данных
-**Роль:** Java разработчик, teamlead  
-**Основные технологии:** Java 8, Spring, Spring Integration, WebSphere, JMS, TestNG, Oracle   
-**Описание:** Загрузка, валидация, нормализация, дедубликация клиентских данных из раличных систем в разных форматах
-(объем ок. 300 млн, инеграция с другими сервисами через JMS для выполнения части функциональности)
-**Основные задачи:** оптимизация работы с т.зр. времени выполнения (параллельное выполнение, оптимизация алгоритмов, работы с БД, работы с очередями), архитектурная проработка новых бинес-фич, управление командой разработчиков, код-ревью
+**Роль:** Senior java разработчик, teamlead  
+**Основные технологии:** Java 8, Spring Core, Spring Integration, Spring Boot, Spring MVC, WebSphere, IBM MQ, TestNG, Oracle   
+**Описание:** Загрузка, валидация, нормализация, дедубликация и сохранение в БД клиентских данных из раличных систем 
+банка в разных форматах (общий объем клиентов ок. 1 миллиарда), инеграция с другими сервисами с использованием MQ.
+Повторная обработка данных, которые уже сохранены в БД, по различным бизнес-сценариям   
+**Основные обязанности:** оптимизация работы с т.зр. времени выполнения (параллельное выполнение, оптимизация алгоритмов, работы с БД, работы с очередями), 
+архитектурная проработка новых бинес-фич, управление командой разработчиков, код-ревью, организация нагрузочного
+тестирования с использованием JMeter
 #### Поиск домохозяйств
-**Роль:** Java разработчик  
+**Роль:** Senior java разработчик  
 **Основные технологии:** Java 6, Spring, WebSphere, JUnit, DB2   
 **Описание:** Построение графов домохозяйств на основе единичных дублей, с вычислением и сохранением соотв. статистики 
-(объем - ок. 30млн дублей)
-**Основная задача:** реализация и оптимизация алгоритма с т.зр. памяти и времени выполнения
+(объем - ок. 30 млн дублей)
+**Основные обязанности:** реализация и оптимизация алгоритма с т.зр. памяти и времени выполнения
 #### Поиск дублей ЮЛ
 **Роль:** Java разработчик   
 **Основные технологии:** Java 6, Spring, WebSphere, JUnit   
@@ -61,7 +69,7 @@ Delphi разработчик
 **Основные технологии:**  Spring, Hibernate, JSP, Maven, WebSphere    
 **Описание:** Web-приложение, которое позваляет автоматизировать сложный процессинг файлов с данными, собрать по ним статистику, интегрируется с SOAP-сервисами
 #### Англоязычный словарь
-**Роль:** teamlead    
+**Роль:** Teamlead    
 **Основные технологии:**  JavaFX, JPA, Derby, Maven, Jenkins    
 **Описание:** Десктоп-приложение словарь, позволяющее загружать данные в xml-формате, конвертировать их в html, используя xslt и отображать во встроенном браузере
 #### Система документооборота для подразделения правительства РФ
