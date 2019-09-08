@@ -48,23 +48,28 @@ WebSphere, IBM MQ, Kafka, TestNG, Oracle, Python for DevOps scripting
 for clients data from different legacy banks systems (the approximate quantity is 1 billion 
 clients). Integration with other banks services using MQ and Kafka. Secondary processing data, 
 that already exists in database by different business scenarios   
-**Primary responsibilities:**  optimize execution time of uploading (multi-thread execution, optimization of algorithms, working with DB and queues),
-working as a solution architect for some business tasks, management of the team of 3-4 developers and one QA, code-reviews, 
-organisation of load testing using JMeter. Taking part in DevOps activities: configure Splunk monitoring for application,
-configure CI server pipeline
+**Primary responsibilities:**  
+* optimize execution time of processing (multi-thread execution, optimization of algorithms, working with DB and queues),
+* working as a solution architect for some business tasks 
+* management of the team of 3-4 developers and one QA: code-reviews, knowledge sharing, tasks discussions  
+* organisation of load testing using JMeter 
+* taking part in DevOps activities: configure Splunk monitoring for application, configure CI server pipeline
 #### Searching for households   
 **Role:** Senior java developer  
 **Core technologies:** Java 6, Spring, WebSphere, JUnit, DB2   
 **Description:** Web-application is designed for building households (i.e. connected components from pairs of cliens) 
 with calculating and saving statistics (the approximate quantity is 30 millions pairs of clients)    
-**Primary responsibilities:** implement algorithm for looking for connected components from pairs of clients and optimize it by memory usage and execution time   
+**Primary responsibilities:** 
+* implement algorithm for looking for connected components from pairs of clients  
+* optimize algorithm by memory usage and execution time   
 #### Searching for duplicates of clients   
 **Role:** Java developer   
 **Core technologies:** Java 6, Spring, WebSphere, JUnit   
 **Description:** Application is designed for searching for duplicates clients inside big amount of data 
 with usage of different duplicates scenarios  
-**Primary responsibilities:** Refactoring and adding new features to big legacy code base, improvement of working with DB (using of indexes, 
-stored procedures), calculations of hashes and scenarios for searching duplicates of clients  
+**Primary responsibilities:** 
+* refactoring and adding new features to big legacy code base (e.g. calculations of hashes and scenarios for searching duplicates of clients)
+* improvement of working with DB (using of indexes, stored procedures)   
 #### C2C Credit System for individuals  
 **Role:** Java developer, teamlead   
 **Core technologies:**  Struts, EJB, Hibernate, JSP, Maven, TomEE   
