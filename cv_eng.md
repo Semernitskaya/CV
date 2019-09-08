@@ -3,7 +3,7 @@
 ## Skills   
 
 #### Programming languages 
-Java, Scala, SQL, XML
+Java, Scala, Python, SQL, XML
 #### Technologies/frameworks 
 JavaSE (6-8), Spring Core, Spring Integration, Spring Boot, Spring Data, Spring MVC, Mapstruct, 
 Flyway, MyBatis, JMS, Hibernate, JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX
@@ -16,7 +16,7 @@ WebSphere, Glassfish, Weblogic, Tomcat, TomEE
 #### Messaging systems
 IBM MQ, Kafka
 #### Monitoring tools
-Splunk, IBM Tivoli 
+Splunk, IBM Tivoli, ELK 
 #### Continuous integration servers  
 TeamCity, Jenkins
 #### Databases 
@@ -40,27 +40,30 @@ Ulyanovsk Mechanical Plant
 Delphi developer
 
 ## Projects 
-#### Uploading and analysis clients data  
+#### Analytics platform for clients data  
 **Role:** Senior java developer, teamlead  
-**Core technologies:** Java 8, Spring Core, Spring Integration, Spring Boot, Spring MVC, WebSphere, IBM MQ, TestNG, Oracle     
+**Core technologies:** Java 8, Spring Core, Spring Integration, Spring Boot, Spring MVC, 
+WebSphere, IBM MQ, Kafka, TestNG, Oracle, Python for DevOps scripting     
 **Description:** Uploading, validation, standardization, searching for duplicates and saving in database
 for clients data from different legacy banks systems (the approximate quantity is 1 billion 
-clients). Integration with other banks services using MQ. Secondary processing data, 
+clients). Integration with other banks services using MQ and Kafka. Secondary processing data, 
 that already exists in database by different business scenarios   
 **Primary responsibilities:**  optimize execution time of uploading (multi-thread execution, optimization of algorithms, working with DB and queues),
 working as a solution architect for some business tasks, management of the team of 3-4 developers and one QA, code-reviews, 
-organisation of load testing using JMeter. Taking part in devops activities: configure Splunk monitoring for application,
+organisation of load testing using JMeter. Taking part in DevOps activities: configure Splunk monitoring for application,
 configure CI server pipeline
 #### Searching for households   
 **Role:** Senior java developer  
 **Core technologies:** Java 6, Spring, WebSphere, JUnit, DB2   
 **Description:** Web-application is designed for building households (i.e. connected components from pairs of cliens) 
 with calculating and saving statistics (the approximate quantity is 30 millions pairs of clients)    
-**Primary responsibilities:** implement algorithm and optimize it by memory usage and execution time   
+**Primary responsibilities:** implement algorithm for looking for connected components from pairs of clients and optimize it by memory usage and execution time   
 #### Searching for duplicates of clients   
 **Role:** Java developer   
 **Core technologies:** Java 6, Spring, WebSphere, JUnit   
-**Description:** Refactoring and adding new features to big legacy code base, improvement of working with DB (using of indexes, 
+**Description:** Application is designed for searching for duplicates clients inside big amount of data 
+with usage of different duplicates scenarios  
+**Primary responsibilities:** Refactoring and adding new features to big legacy code base, improvement of working with DB (using of indexes, 
 stored procedures), calculations of hashes and scenarios for searching duplicates of clients  
 #### C2C Credit System for individuals  
 **Role:** Java developer, teamlead   
