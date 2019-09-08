@@ -21,22 +21,14 @@ __Task tracking systems:__ JIRA
 
 ## Additional skills   
 
-#### Programming languages 
-Scala   
-#### Technologies/frameworks 
-JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX, Jasper Reports
-#### User Interface Toolkits / IDE Environments 
-Eclipse, NetBeans, JDeveloper, Javafx Scene Builder
-#### Application Servers 
-Glassfish, Weblogic, TomEE
-#### Continuous integration servers  
-TravisCI
-#### Databases 
-PostgreSQL, DB2   
-#### Build tools 
-SBT
-#### Task tracking systems 
-Redmine, YouTrack
+__Programming languages:__ Scala      
+__Technologies/frameworks:__ JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX, Jasper Reports    
+__User Interface Toolkits / IDE Environments:__ Eclipse, NetBeans, JDeveloper, Javafx Scene Builder    
+__Application Servers:__ Glassfish, Weblogic, TomEE   
+__Continuous integration servers:__ TravisCI    
+__Databases:__ PostgreSQL, DB2   
+__Build tools:__ SBT   
+__Task tracking systems:__ Redmine, YouTrack    
 
 ## Experience (8+ years)
 #### 04/2015 - Present (4 years and 5 months)
