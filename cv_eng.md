@@ -32,15 +32,14 @@ __Build tools:__ SBT
 __Task tracking systems:__ Redmine, YouTrack    
 
 ## Experience (8+ years)
-#### 04/2015 - Present (4 years and 5 months)
-HFLabs (Moscow, Russia)   
-Senior Java Developer, Teamlead
-#### 08/2012 - 04/2015 (2 years and 8 months)
-SimbirSoft (Ulyanovsk, Russia)   
-Java Developer, Teamlead
-#### 08/2011 - 08/2012 (1 year)
-Ulyanovsk Mechanical Plant (Ulyanovsk, Russia)   
-Delphi Developer
+__HFLabs (Moscow, Russia)__ - Senior Java Developer, Teamlead   
+04/2015 - Present (4 years and 5 months)   
+   
+__SimbirSoft (Ulyanovsk, Russia)__ - Java Developer, Teamlead      
+08/2012 - 04/2015 (2 years and 8 months)
+      
+__Ulyanovsk Mechanical Plant (Ulyanovsk, Russia)__ - Delphi Developer   
+08/2011 - 08/2012 (1 year)   
 
 ## Projects 
 ### Analytics platform for clients data  
@@ -60,7 +59,7 @@ that already exists in database by different business scenarios
 ### Searching for households   
 **Role:** Senior Java Developer  
 **Core technologies:** Java 6, Spring, WebSphere, JUnit, DB2   
-**Description:** Web-application is designed for building households (i.e. connected components from pairs of cliens) 
+**Description:** Web-application is designed for building households (i.e. connected components from pairs of clients) 
 with calculating and saving statistics (the approximate quantity is 30 millions pairs of clients)    
 **Primary responsibilities:** 
 * implement algorithm for looking for connected components from pairs of clients  
@@ -106,8 +105,8 @@ with usage of different duplicates scenarios
 **Core technologies:** Delphi, PostgresSQL    
 
 ## Education   
+__Ulyanovsk State University__   
 2006-2011   
-Ulyanovsk State University   
 Specialization: Applied mathematics and informatics
 
 ## Courses
