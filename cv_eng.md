@@ -20,7 +20,7 @@ Splunk, IBM Tivoli, ELK
 #### Continuous integration servers  
 TeamCity, Jenkins
 #### Databases 
-Oracle, PostgreSQL, H2, DB2
+Oracle, PostgreSQL, H2, DB2, MongoDB
 #### VCS 
 Git, SVN
 #### Build tools 
@@ -96,9 +96,17 @@ stored procedures), calculations of hashes and scenarios for searching duplicate
 #### Consumption of materials control system   
 **Role:** Delphi developer   
 **Core technologies:** Delphi, PostgresSQL    
+
 ## Education   
 2006-2011   
 Ulyanovsk State University   
-Specialization: Applied mathematics and informatics   
+Specialization: Applied mathematics and informatics
+
+## Courses
+1. Functional Programming Principles in Scala https://www.coursera.org/learn/progfun1
+1. Big Data Analysis with Scala and Spark https://www.coursera.org/learn/scala-spark-big-data
+## Certificates
+Oracle Certified Associate - Java SE 7
+
 ## Additional info  
 Age: 30
