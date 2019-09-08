@@ -98,4 +98,4 @@ stored procedures), calculations of hashes and scenarios for searching duplicate
 Ulyanovsk State University   
 Specialization: Applied mathematics and informatics   
 ## Additional info  
-Age: 29   
+Age: 30
