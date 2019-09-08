@@ -1,37 +1,23 @@
 # Semernitskaya Olga
 
-## Info
 __Address:__ Osenniy Bulvar 7/2, 230, Moscow, Russian Federation   
 __Skype:__ semernitskaya   
 __Telegram:__ @Semernitskaya   
 
 ## Main skills   
 
-#### Programming languages 
-Java, Python, SQL
-#### Technologies/frameworks 
-JavaSE (6-8), Spring (Core, Integration, Boot, Data, MVC) Mapstruct, 
-Flyway, MyBatis, JMS, Hibernate
-#### Test frameworks 
-TestNG, Mockito, DBUnit, Spring Test, JUnit
-#### User Interface Toolkits / IDE Environments 
-IntelliJ IDEA, JMeter, PyCharm
-#### Application Servers 
-WebSphere, WildFly, Tomcat
-#### Messaging systems
-IBM MQ, Kafka
-#### Monitoring tools
-Splunk, IBM Tivoli, ELK 
-#### Continuous integration servers  
-TeamCity, Jenkins
-#### Databases 
-Oracle, H2, MongoDB
-#### VCS 
-Git, SVN
-#### Build tools 
-Maven, Gradle   
-#### Task tracking systems 
-JIRA   
+__Programming languages:__ Java, Python, SQL      
+__Technologies/frameworks:__ JavaSE (6-8), Spring (Core, Integration, Boot, Data, MVC) Mapstruct, Flyway, MyBatis, JMS, Hibernate   
+__Test frameworks:__ TestNG, Mockito, DBUnit, Spring Test, JUnit   
+__User Interface Toolkits / IDE Environments:__ IntelliJ IDEA, JMeter, PyCharm   
+__Application Servers:__ WebSphere, WildFly, Tomcat   
+__Messaging systems:__ IBM MQ, Kafka   
+__Monitoring tools:__ Splunk, IBM Tivoli, ELK    
+__Continuous integration servers:__ TeamCity, Jenkins   
+__Databases:__ Oracle, H2, MongoDB   
+__VCS:__ Git, SVN   
+__Build tools:__ Maven, Gradle      
+__Task tracking systems:__ JIRA      
 
 ## Additional skills   
 
