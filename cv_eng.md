@@ -1,18 +1,23 @@
 # Semernitskaya Olga
 
-## Skills   
+## Info
+__Address:__ Osenniy Bulvar 7/2, 230, Moscow, Russian Federation   
+__Skype:__ semernitskaya   
+__Telegram:__ @Semernitskaya   
+
+## Main skills   
 
 #### Programming languages 
-Java, Scala, Python, SQL
+Java, Python, SQL
 #### Technologies/frameworks 
 JavaSE (6-8), Spring (Core, Integration, Boot, Data, MVC) Mapstruct, 
-Flyway, MyBatis, JMS, Hibernate, JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX, Jasper Reports
+Flyway, MyBatis, JMS, Hibernate
 #### Test frameworks 
 TestNG, Mockito, DBUnit, Spring Test, JUnit
 #### User Interface Toolkits / IDE Environments 
-IntelliJ IDEA, Eclipse, NetBeans, JDeveloper, Javafx Scene Builder, JMeter
+IntelliJ IDEA, JMeter, PyCharm
 #### Application Servers 
-WebSphere, WildFly, Glassfish, Weblogic, Tomcat, TomEE
+WebSphere, WildFly, Tomcat
 #### Messaging systems
 IBM MQ, Kafka
 #### Monitoring tools
@@ -20,23 +25,42 @@ Splunk, IBM Tivoli, ELK
 #### Continuous integration servers  
 TeamCity, Jenkins
 #### Databases 
-Oracle, PostgreSQL, H2, DB2, MongoDB
+Oracle, H2, MongoDB
 #### VCS 
 Git, SVN
 #### Build tools 
-Maven, Gradle, SBT
+Maven, Gradle   
 #### Task tracking systems 
-JIRA, Redmine, YouTrack
+JIRA   
 
-## Experience
-#### 04/2015 - Present
-HFLabs   
+## Additional skills   
+
+#### Programming languages 
+Scala   
+#### Technologies/frameworks 
+JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX, Jasper Reports
+#### User Interface Toolkits / IDE Environments 
+Eclipse, NetBeans, JDeveloper, Javafx Scene Builder
+#### Application Servers 
+Glassfish, Weblogic, TomEE
+#### Continuous integration servers  
+TravisCI
+#### Databases 
+PostgreSQL, DB2   
+#### Build tools 
+SBT
+#### Task tracking systems 
+Redmine, YouTrack
+
+## Experience (8+ years)
+#### 04/2015 - Present (4 years and 5 months)
+HFLabs (Moscow, Russia)   
 Senior Java Developer, Teamlead
-#### 08/2012 - 04/2015
-SimbirSoft   
+#### 08/2012 - 04/2015 (2 years and 8 months)
+SimbirSoft (Ulyanovsk, Russia)   
 Java Developer, Teamlead
-#### 08/2011 - 08/2012
-Ulyanovsk Mechanical Plant   
+#### 08/2011 - 08/2012 (1 year)
+Ulyanovsk Mechanical Plant (Ulyanovsk, Russia)   
 Delphi Developer
 
 ## Projects 
