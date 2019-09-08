@@ -1,4 +1,5 @@
 # Semernitskaya Olga
+#### Senior Software Developer
 
 __Address:__ Osenniy Bulvar 7/2, 230, Moscow, Russian Federation   
 __Skype:__ semernitskaya   
@@ -112,5 +113,6 @@ Specialization: Applied mathematics and informatics
 ## Courses
 1. Functional Programming Principles in Scala https://www.coursera.org/learn/progfun1
 1. Big Data Analysis with Scala and Spark https://www.coursera.org/learn/scala-spark-big-data
+
 ## Certificates
 Oracle Certified Associate - Java SE 7
