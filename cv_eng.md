@@ -1,7 +1,6 @@
 # Semernitskaya Olga
 #### Senior Software Developer
 
-__Address:__ Osenniy Bulvar 7/2, 230, Moscow, Russian Federation   
 __Skype:__ semernitskaya   
 __Telegram:__ @Semernitskaya   
 
@@ -14,7 +13,7 @@ __User Interface Toolkits / IDE Environments:__ IntelliJ IDEA, JMeter, PyCharm
 __Application Servers:__ WebSphere, WildFly, Tomcat   
 __Messaging systems:__ IBM MQ, Kafka   
 __Monitoring tools:__ Splunk, IBM Tivoli, ELK    
-__Continuous integration servers:__ TeamCity, Jenkins   
+__CI / CD:__ TeamCity, Jenkins, Docker   
 __Databases:__ Oracle, H2, MongoDB   
 __VCS:__ Git, SVN   
 __Build tools:__ Maven, Gradle      
@@ -26,7 +25,7 @@ __Programming languages:__ Scala
 __Technologies/frameworks:__ JavaEE, Struts, GWT, ADF, Selenium, JSP, JavaFX, Jasper Reports    
 __User Interface Toolkits / IDE Environments:__ Eclipse, NetBeans, JDeveloper, Javafx Scene Builder    
 __Application Servers:__ Glassfish, Weblogic, TomEE   
-__Continuous integration servers:__ TravisCI    
+__CI / CD:__ TravisCI, Kubernetes    
 __Databases:__ PostgreSQL, DB2   
 __Build tools:__ SBT   
 __Task tracking systems:__ Redmine, YouTrack    
@@ -51,7 +50,7 @@ for clients data from different legacy banks systems (the approximate quantity i
 clients). Integration with other bank services using MQ and Kafka. Secondary processing data, 
 that already exists in database by different business scenarios   
 **Primary responsibilities:**  
-* optimize execution time of processing (multi-thread execution, optimization of algorithms, working with DB and queues),
+* optimize execution time of processing (multi-thread execution, optimization of algorithms, working with DB and queues)
 * working as a solution architect for some business tasks 
 * management of the team of 3-4 developers and one QA: code-reviews, knowledge sharing, tasks discussions  
 * organisation of load testing using JMeter 
